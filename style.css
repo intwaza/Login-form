@@ -1,0 +1,46 @@
+body{
+    background:linear-gradient(to right ,#00AAFF, #00FF6C);
+    
+}
+h1{
+    color: black;
+    text-align: center;
+}
+.form{
+    padding-left: 450px;
+
+}
+#name{
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#male{
+    margin-top: 20px;
+}
+#female{
+    margin-top: 20px;
+}
+#checkbox{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+
+}
+
+#Signup{
+    padding: 10px;
+    margin-left: 100px;
+    margin-top: 100px;
+    padding-bottom: -50%;
+    height: auto;
+    border-radius: 20%;
+    color: black;
+    background-color: rgb(249, 231, 159);
+    text-decoration: none;
+}
+#input{
+    margin-top: 20px;
+}
